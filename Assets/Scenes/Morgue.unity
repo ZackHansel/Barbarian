@@ -34336,6 +34336,11 @@ PrefabInstance:
       propertyPath: m_enemyModes.Array.data[2].m_enemys.Array.data[1]
       value: 
       objectReference: {fileID: 1088824200}
+    - target: {fileID: 2051022236876908679, guid: d33478b9a9701c94eae3d12e39df3607,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2518723641417871484, guid: d33478b9a9701c94eae3d12e39df3607,
         type: 3}
       propertyPath: m_RootOrder
@@ -34429,7 +34434,7 @@ PrefabInstance:
     - target: {fileID: 4775891480544745554, guid: d33478b9a9701c94eae3d12e39df3607,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.00002002716
+      value: 0.000022888184
       objectReference: {fileID: 0}
     - target: {fileID: 4993544877883275794, guid: d33478b9a9701c94eae3d12e39df3607,
         type: 3}
@@ -34484,11 +34489,16 @@ PrefabInstance:
     - target: {fileID: 7049035143947997061, guid: d33478b9a9701c94eae3d12e39df3607,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7863789035890609194, guid: d33478b9a9701c94eae3d12e39df3607,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9200507575157573338, guid: d33478b9a9701c94eae3d12e39df3607,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -40448,6 +40458,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: DeadWoman
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156154807832074339, guid: 540a0a17efe68fe4d91846048a97aa58,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 540a0a17efe68fe4d91846048a97aa58, type: 3}
